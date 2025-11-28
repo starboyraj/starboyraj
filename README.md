@@ -57,16 +57,10 @@ Redbus front-end replica focusing on **responsive layouts** and booking UX.
 
 ---
 
-## 📈 GitHub Activity
-![Raj’s GitHub stats](https://github-readme-stats.vercel.app/api?username=starboyraj&show_icons=true&theme=tokyonight)
-
-
----
-
 ## 📫 Connect with me
 - 🔗 LinkedIn: https://www.linkedin.com/in/raj-singh-10458a22b
 
----
+
 
 
 
