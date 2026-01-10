@@ -30,12 +30,6 @@ Responsive real estate UI with clean components and mobile responsiveness.
 
 ---
 
-### 🔹 Redbus Clone
-Redbus front-end replica focusing on **responsive layouts** and booking UX.
-- **Stack:** HTML, CSS
-- **Focus:** responsive grid, modern UI, accessibility
-
----
 
 ## 🛠️ Tech Stack
 
