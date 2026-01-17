@@ -14,22 +14,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 CRM App
-A full-stack contact management system with real-time sync, Firebase Auth, and clean UI.
-- **Stack:** React,Tailwind
-- **Features:** login, add contacts, CRUD operations, cloud storage
-
----
-
-### 🔹 Real Estate Website
-Responsive real estate UI with clean components and mobile responsiveness.
-- **Stack:** React.js
-- **Highlights:** user-friendly layout, navigation, mobile-first approach
-
----
-
 
 ## 🛠️ Tech Stack
 
