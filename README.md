@@ -33,8 +33,6 @@
 - VS Code  
 - Postman
 
----
-
 ## 📫 Connect with me
 - 🔗 LinkedIn: https://www.linkedin.com/in/raj-singh-10458a22b
 
