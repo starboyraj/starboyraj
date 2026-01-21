@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Singh
 
-🚀 **Frontend & MERN Developer**  
+🚀 **Full Stack Developer**  
 🔧 I build real-world projects with clean UI and scalable systems.  
 🎯 Currently exploring **React performance & Node backend**.
 
