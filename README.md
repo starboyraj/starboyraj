@@ -26,7 +26,8 @@
 - Express.js
 
 **Database**
-- MongoDB  
+- MongoDB
+- SQL
 
 **Tools**
 - Git & GitHub  
